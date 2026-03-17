@@ -11,6 +11,7 @@ function App(){
      <h1>My Age is {age}</h1>
      <button onClick={AgeUpdate}>Click Me</button>
       <button onClick={AgeUpdate}>Click Me </button>
+      <p>Hi i am shahzaib</p>
      </>
   )
 }
