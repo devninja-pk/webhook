@@ -9,7 +9,7 @@ function App(){
   return(
      <>
      <h1>My Age is {age}</h1>
-     <button>Click Me</button>
+     <button onClick={AgeUpdate}>Click Me</button>
       <button onClick={AgeUpdate}>Click Me </button>
      </>
   )
